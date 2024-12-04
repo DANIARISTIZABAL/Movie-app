@@ -6,7 +6,12 @@
   - año de lanzamiento
   - nombre de la pelicula
 
-# 
+# Tecnologias utilizadas
+ **React**: Una biblioteca de JavaScript para construir interfaces de usuario.
+- **Styled-Components**: Biblioteca para escribir CSS en JavaScript, permitiendo estilos dinámicos.
+- - **TypeScript**: Un superconjunto de JavaScript que añade tipado estático.
+- **Flowbite-React**: Componentes UI reutilizables.
+- **React Icons**: Iconos SVG para React.
 
 ## Instalación
 
